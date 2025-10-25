@@ -11,8 +11,7 @@ Teach all things Git, give away all the stickers, ensure world peace.
 
 ### Supportocat
 
-Solve technical mysteries and help users become GitHub superheroes.
-## Skills
+Solve technical mysteries and help users become GitHub superheroes
 
 ### Education
 
