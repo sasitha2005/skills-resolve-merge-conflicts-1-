@@ -14,32 +14,29 @@ _Learn why conflicts happen and how to resolve them._
 </header>
 
 <!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Step 2: Resolve a merge conflict
+## Finish
 
-_Good start! Now let's look deeper at a merge conflict! :mag:_
+_Congratulations friend, you've completed this course!_
 
-This can be intimidating, but have no fear, Git is smart when it comes to merging! Git only needs a human to decide how to [resolve the conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line). Sometimes, the best way to resolve a merge conflict is to add content that's from both branches, or even something that isn't on either! This is why Git needs a human to look at the code and make the proper fixes.
+<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
 
-### :keyboard: Activity: Resolve a merge conflict
+Here's a recap of all the tasks you've accomplished in your repository:
 
-1. Open the pull request that you just created, we created a conflict for you. Have no fear!
-1. At the bottom of the page, under "This branch has conflicts that must be resolved", click the **Resolve conflicts** button.
-1. Look for the highlighted sections that begins with `<<<<<<< my-resume` and ends with `>>>>>>> main`. These markers are added by Git to show you the content that is in conflict.
-1. Remove the changes made on the main branch by deleting all of the content below the `=======` and above `>>>>>>> main`.
-1. Next, remove the merge conflict markers by deleting the following lines:
-   ```
-   <<<<<<< my-resume
-   =======
-   >>>>>>> main
-   ```
-1. With the merge conflict markers removed, click **Mark as resolved**.
-1. Finally, click **Commit merge**.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+- You learned why merge conflicts happen.
+- You resolved a simple merge conflict.
+- You created a merge conflict, and resolved it!
+
+### What's next?
+
+- Make your own Markdown resume site with GitHub Pages! Learn how in our [GitHub Pages](https://github.com/skills/github-pages) course.
+- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/resolve-merge-conflicts).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
